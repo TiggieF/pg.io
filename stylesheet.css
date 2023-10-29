@@ -4,6 +4,7 @@ body {
     /* credit to ping */
   }
   
+  
   h1 {
     color: rgb(138, 41, 41);
     padding: 25px;
@@ -23,7 +24,7 @@ body {
     padding: 25px;
     text-align: left;
     font: small-caps bold 24px/1 sans-serif;
-    font-size: 35px;  
+    font-size: 35px;
     width: 40%;
   }
   div.title {
@@ -45,4 +46,15 @@ body {
    #descrption {
     font-size: 20px;
     text-align: start;
+    border: 2px solid rgb(127, 17, 17);
    }
+   
+
+   #audio{
+    padding: 5px;
+    padding-left: 60px;
+   }
+   .video{
+    padding: 20px;
+   }
+ 
