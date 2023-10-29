@@ -2,7 +2,6 @@ body {
     background-image: url("background.jpeg");
   }
   
-  
   h1 {
     color: rgb(138, 41, 41);
     padding: 25px;
@@ -63,5 +62,12 @@ body {
    }
    .DescpDiv{
     position: relative; margin-left: -30px; margin-top: 125px;
+   }
+   .SearchBar{
+    background-color: gray;
+    position: relative;
+   }
+   .SearchBar a{
+    
    }
  
